@@ -36,7 +36,7 @@ Inicios de sesión fallidos a lo largo del tiempo (línea temporal)
 ## 📸 Screenshots / Capturas
 
 🖥️ Dashboard Overview / Vista General del Dashboard
-<p align="center"> <img src="./images/dashboard.png" width="600"> </p>
+<p align="center"> <img src="./screenshots/Dashboard.png" width="800"> </p>
 
 ## ⚡ Alerting / Alertas
 
